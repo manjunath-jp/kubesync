@@ -1,0 +1,5 @@
+example:
+  datasource:
+    url: jdbc:mysql://dev/example
+    username: dev-user
+    password: dev-password
